@@ -1,0 +1,11 @@
+{
+  "name": "my-public-package",
+  "version": "1.0.0-alpha.1",
+  "description": "This is a public package for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burt Crismore",
+  "license": "ISC"
+}
