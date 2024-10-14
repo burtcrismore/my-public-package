@@ -11,8 +11,7 @@
 	"url": "git+https://github.com/burtcrismore/my-public-package.git"
  },
  "publishConfig": {
-	"registry": "https://npm.pkg.github.com",
-	"access": "public"
+	"registry": "https://npm.pkg.github.com"
  },
   "author": "Burt Crismore",
   "license": "ISC"
