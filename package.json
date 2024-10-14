@@ -1,5 +1,5 @@
 {
-  "name": "my-public-package",
+  "name": "@framework/my-public-package",
   "version": "1.0.0-alpha.1",
   "description": "This is a public package for testing.",
   "main": "index.js",
