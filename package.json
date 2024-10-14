@@ -1,5 +1,5 @@
 {
-  "name": "@framework/my-public-package",
+  "name": "@burtcrismore/my-public-package",
   "version": "1.0.0-alpha.1",
   "description": "This is a public package for testing.",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "repository": {
 	"type": "git",
 	"url": "git+https://github.com/burtcrismore/my-public-package.git"
+ },
+ "publishConfig": {
+	"registry": "https://npm.pkg.github.com"
  },
   "author": "Burt Crismore",
   "license": "ISC"
